@@ -1,0 +1,83 @@
+.logo{
+    width: 80px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.headerleft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-left: 5px;
+}
+.headerright{
+    display: flex;
+    justify-items: center;
+    gap: 10px;
+    margin-right: 25px;
+    gap: 3px;
+}
+.button{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 5px 15px 5px 15px;
+    margin: 5px;
+    border-radius: 3px;
+}
+.buttona{
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    border: white;
+}
+.bodyleft{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.head2{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    margin: 20px 0px 0px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+}
+.mainpara{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 10px 8px 10px 8px;
+}
+video{
+    max-height: 400px;
+}
+video{
+    display: inline-block;
+    vertical-align: baseline;
+}
+.button3{
+    background-color: blueviolet;
+    padding: 15px 30px 15px 30px;
+    border-radius: 2px;
+    color: white;
+}
+.button4{
+    padding: 15px 30px 15px 30px;
+    border: 2px solid blueviolet;
+    border-radius: 2px;
+    color: blueviolet;
+
+}
+.buttons{
+    gap: 4px;
+    margin-right: 90px;
+}
